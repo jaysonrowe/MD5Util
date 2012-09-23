@@ -1,0 +1,1 @@
+A simple WPF application to generate the MD5 hash of an entered string.
